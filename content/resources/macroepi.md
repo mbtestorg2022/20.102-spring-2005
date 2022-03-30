@@ -8,6 +8,7 @@ description: Term paper assignment. Each student chooses a common disease such a
   about the chosen disease.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-102-macroepidemiology-be-102-spring-2005/463ef47b626f6c3c3e9ec2b255871b7b_macroepi.pdf
 file_type: application/pdf
+parent_uid: 3546b380-6cf2-0f9d-3b91-d2d99580c0d1
 resourcetype: Document
 title: macroepi.pdf
 uid: 463ef47b-626f-6c3c-3e9e-c2b255871b7b
